@@ -1,0 +1,19 @@
+body{
+  background: linear-gradient(to right , #868686 , lightblue);
+}
+h1{
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+ 
+  font-size: 50px;
+  margin-top: 280px;
+  /* color: #fff; */
+  /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+text-decoration:overline;
+transition: .5s;
+
+}
+h1:hover{
+  transform: scale(1.3);
+}
