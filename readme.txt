@@ -1,0 +1,1 @@
+This is Automated Digital Clock Which Automatically itself After 1 Second
