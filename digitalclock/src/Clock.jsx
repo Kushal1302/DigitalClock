@@ -21,7 +21,7 @@ const Clock = ()=>{
     return (
        <>
             <h1>{newTime}</h1>
-            <h2>{DayDate}</h2>
+            <h2>{DayDate.split("/").join("-")}</h2>
         </>
         
     );
